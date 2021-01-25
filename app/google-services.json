@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "549485049757",
+    "project_id": "dengueapp-b9bcb",
+    "storage_bucket": "dengueapp-b9bcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549485049757:android:f2d36d651cb077d6d76174",
+        "android_client_info": {
+          "package_name": "com.example.dennotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549485049757-q5e50j42rncbrroldjcmss708bc3t2pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dennotify",
+            "certificate_hash": "33df859ad3a66312f0a49bb80538195bcfe4af6f"
+          }
+        },
+        {
+          "client_id": "549485049757-f9mej99j47j2o1gte1s0917eb23a9do2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBprjhoDoxiZ6p5Wc5I9p5mKdxeNjCNWxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549485049757-f9mej99j47j2o1gte1s0917eb23a9do2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
